@@ -1,0 +1,6 @@
+{
+  "name": "BUNZO Burgers Egypt | مطعم بنزو برجر",
+  "description": "The official website for BUNZO Burgers (بنزو برجر) in Egypt. Gourmet smash burgers, flame-grilled beef, crispy chicken, and loaded fries at Six Ten Park 6th of October and City Walk Sheikh Zayed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
